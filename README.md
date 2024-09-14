@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @saiteja also knows as ThekingGST
-- 👀 I’m interested in learning programming languages like JAVA, PYTHON
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Python
